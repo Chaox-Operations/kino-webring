@@ -24,6 +24,7 @@ Personally I used GIMP, but it's very blurry and painful to use with the 240x60 
 
 ## HOW TO MAKE A WEBSITE
 There are countless tutorials online. Personally I think HTML is dead simple, CSS can be quite a chore tho. There is no excuse not knowing the basics of HTML.
+
 https://developer.mozilla.org/en-US/
 
 https://www.w3fools.com/
