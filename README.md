@@ -1,4 +1,4 @@
-#Welcome to the Kino Webring Git!
+# Welcome to the Kino Webring Git!
 
 ## REQUIREMENTS:
 - Minimal JS usage (librejs is recommended)
