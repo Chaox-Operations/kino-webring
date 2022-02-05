@@ -17,9 +17,9 @@
 
 
 ## HOW TO JOIN
-* Submit a 240x60 web banner (they can either be PNG, JPG, or GIF, if you really must you can also import SVG although I consider it experimental)
-* Include your site name
-* Make a short description of it (in case people want to include in their webring page)
+* Make a pull request with your web banner in the correct folder and add your site inside the sample HTML file
+* The web banner recommended size is 240x60, but 88x31 is also accepted (you can only upload either one of those, don't insert both of them)
+* Add a short description!
 
 ## HOW TO MAKE A BANNER
 Personally I used GIMP, but it's very blurry and painful to use with the 240x60 canvas, so I suggest upscaling it. You can also use krita or even inkscape. You can inspire from existing banners, or follow some basic tutorials, they're plenty.
