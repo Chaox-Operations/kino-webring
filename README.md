@@ -1,3 +1,5 @@
+![Old-Net](https://raw.githubusercontent.com/Chaox-Community/kino-webring/main/misc/kino-webring.png)
+
 # Welcome to the Kino Webring Git!
 
 ## REQUIREMENTS:
